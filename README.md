@@ -35,13 +35,18 @@ Abra o terminal e execute:
 
 ```sh
 git clone https://github.com/vfonzar/jogo_secreto.git
+```
 
-▶️ Rodar o projeto
-	1.	Acesse a pasta do projeto:
+---
 
+## ▶️ Rodar o projeto
+1.	Acesse a pasta do projeto:
+
+```sh
 cd jogo_secreto
+```
 
-	2.	Abra o arquivo index.html no navegador.
+2.	Abra o arquivo index.html no navegador.
 
 🛠️ Funcionalidades
 
@@ -53,25 +58,27 @@ cd jogo_secreto
 🤝 Contribuindo
 
 Se quiser contribuir com melhorias ou novas funcionalidades, siga os passos:
-	1.	Faça um fork deste repositório
-	2.	Crie uma branch:
-
+1.	Faça um fork deste repositório
+2.	Crie uma branch:
+```sh
 git checkout -b feature-nova-funcionalidade
+```
 
-
-	3.	Faça as alterações e commit:
-
+3.	Faça as alterações e commit:
+```sh
 git commit -m "Adicionando nova funcionalidade"
+```
 
-
-	4.	Envie para o GitHub:
-
+4.	Envie para o GitHub:
+```sh
 git push origin feature-nova-funcionalidade
+```
 
+5.	Abra um Pull Request 🚀
 
-	5.	Abra um Pull Request 🚀
+---
 
-📜 Licença
+## 📜 Licença
 
 Este projeto é open-source e segue a licença MIT.
 
