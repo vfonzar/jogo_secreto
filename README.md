@@ -7,7 +7,10 @@
 O **Jogo Secreto** é um projeto simples e divertido, desenvolvido para praticar conceitos básicos de **JavaScript, HTML e CSS**.  
 O objetivo do jogo é que o usuário tente adivinhar um número secreto gerado aleatoriamente pelo sistema.  
 
-🔢 **A cada tentativa, o jogo indica se o número digitado é maior ou menor que o número secreto, até que o jogador acerte!**  
+🔢 **A cada tentativa, o jogo indica se o número digitado é maior ou menor que o número secreto, até que o jogador acerte!** 
+
+🔗 **Acesse o projeto online:**  
+👉 [vfonzar.github.io/jogo_secreto/](https://vfonzar.github.io/jogo_secreto/)
 
 ---
 
