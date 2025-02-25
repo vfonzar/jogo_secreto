@@ -84,7 +84,7 @@ Este projeto é open-source e segue a licença MIT.
 
 ## 📬 Contato
 
-📧 <a href="mailto:seuemail@exemplo.com?subject=Contato%20via%20GitHub" target="_blank">Vinicius Fonzar</a>  
+📧 <a href="mailto:vfonzar@gmail.com?subject=Contato%20via%20GitHub" target="_blank">Vinicius Fonzar</a>  
 💼 <a href="https://www.linkedin.com/in/vfonzar" target="_blank">LinkedIn</a>  
 🐙 <a href="https://github.com/vfonzar" target="_blank">GitHub</a>  
 
